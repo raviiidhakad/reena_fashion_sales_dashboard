@@ -92,8 +92,8 @@ The dataset contains information on:
 
 - **GitHub Repository:** https://github.com/raviiidhakad
 - **LinkedIn Profile:** https://www.linkedin.com/in/ravi-dhakad-9b3353245/
-- **Email:** raviidhakad@gmail.com  
-- **Project Title:** *reena_ecommerce_sales_annual_report*  
+- **Email:** raviiidhakad@gmail.com  
+- **Project Title:** *Reena Fashion Store*  
 
 
 ⭐ *If you found this project insightful, consider giving it a star on GitHub!* 🌟
